@@ -10,5 +10,5 @@ red = ('\033[1;31m')
 print(f'{red}[•] Join Over Facebook Group {white}')
 os.system('xdg-open https://www.facebook.com/groups/669702607987139//')
 time.sleep(0.05)
-import free_SXS.cpython-311.so
-free_SXS.cpython-311.so.Main() 
+import free_SXS
+free_SXS.Main() 
